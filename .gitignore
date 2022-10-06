@@ -1,0 +1,4 @@
+/v2/core/node_modules
+/v2/periphery/node_modules
+v2/periphery/.env
+v2/core/.env
